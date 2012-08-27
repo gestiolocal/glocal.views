@@ -1,0 +1,50 @@
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\LibraryViews.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\LibraryViews.pdb
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\Antlr3.Runtime.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\EntityFramework.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\RazorGenerator.Mvc.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\System.Net.Http.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\System.Web.Http.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\System.Web.Providers.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\WebActivator.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\WebGrease.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\EntityFramework.xml
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\System.Net.Http.xml
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\System.Web.Http.xml
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\obj\Debug\LibraryViews.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\obj\Debug\LibraryViews.pdb
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\System.Web.Optimization.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\AccountModels.dll
+C:\Users\jribot\Documents\Projects\MVC 4\LibraryViews\LibraryViews\bin\Debug\AccountModels.pdb
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\LibraryViews.dll
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\LibraryViews.pdb
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\AccountModels.dll
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\Antlr3.Runtime.dll
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\System.Net.Http.dll
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\System.Web.Http.dll
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\System.Web.Optimization.dll
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\System.Web.Providers.dll
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\WebGrease.dll
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\AccountModels.pdb
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\System.Net.Http.xml
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\System.Web.Http.xml
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\obj\Debug\LibraryViews.dll
+C:\Users\jribot\Documents\GitHub\glocal\LibraryViews\LibraryViews\obj\Debug\LibraryViews.pdb

@@ -1,0 +1,274 @@
+﻿/* ------------------------------
+global styles
+------------------------------ */
+html
+{
+    width:100%;
+    height:100%;
+}
+body
+{
+	margin: 0;
+	padding: 0;
+	font: 85% arial, hevetica, sans-serif;
+	text-align: center;
+	color: #333;
+	background: #ddd url(img_39.gif) repeat 0 0;
+	height:100%;
+}
+
+
+
+h2
+{
+	color: #B52C07;
+	font: 140% georgia, times, "times new roman", serif;
+}
+
+h2 a { text-decoration: none; }
+
+h3
+{
+	color: #7d8206;
+	font: 110% georgia, times, "times new roman", serif;
+}
+
+/* ------------------------------
+container styles
+------------------------------ */
+
+#container
+{
+	margin: 0;
+	padding:0;
+	height:100%;
+	width: 100%;
+	text-align: left;
+	background: #fff;
+	border-collapse:collapse;
+}
+
+/* ------------------------------
+header styles
+------------------------------ */
+
+#header
+{
+	min-height: 53px;
+	width: 100%;
+    position:absolute;
+    z-index:1;
+    top:0;
+	background: #eee;
+	border-bottom: 1px solid #777;
+    padding-top:5px;
+
+}
+
+#header h1
+{
+	position: absolute;
+
+}
+
+
+
+/* ------------------------------
+logo styles
+------------------------------ */
+
+#logo
+{
+    float:left;
+    margin-top:22px;
+    margin-left:30px;
+
+}
+/* ------------------------------
+mainnav styles
+------------------------------ */
+#siteinfo
+{
+    float:left;
+    width:100%;
+    min-height:20px;
+    border-bottom:2px solid #C5C877;    
+    background:#fff;
+    min-width:600px;
+
+}
+
+#mainnav
+{
+    float:left;
+	background: #b2b580;
+	color: #272900;
+	margin-top: 3px;
+	min-height:25px;
+	border-bottom:2px solid #ededed;
+	width:100%;
+
+}
+
+.espais
+
+{
+    float:left;
+    height:25px;
+    width:205px;
+}
+
+.altre
+{
+    float:left;
+    height:25px;
+    background:url
+}
+
+.img
+{
+    float:right;
+    height:25px;
+    width:10px;
+    background:url('../Images/separador3.png');
+}
+
+#info
+{
+    float:right;
+    padding:0px;
+    color:#366eae;
+}
+
+#info a
+{
+    color:#366eae;
+    text-decoration:none;
+}
+
+#info a:hover
+{
+    color: Red;
+    text-decoration:underline;
+}
+#info p
+{
+    margin:0px;
+    padding:2px;
+    height:25px;
+}
+
+
+/* ------------------------------
+menu vertical styles
+------------------------------ */
+
+#menuver
+{
+	width: 200px;
+	height:100%;
+	border-right: 2px solid #C5C877;
+    bottom:0;
+    position:absolute;
+    z-index:2;
+    background: url('../Images/menu_gradient4.png') repeat-y;
+}
+
+
+
+/* ------------------------------
+contents styles
+------------------------------ */
+
+#contents
+{
+    padding-top:80px; 
+    padding-left:205px;
+	margin: 0 0 0 0px;
+	background: #fff;
+    bottom:0;
+}
+
+
+/* ------------------------------
+footer styles
+------------------------------ */
+
+#footer
+{
+	clear: both;
+	color: #272900;
+	text-align: right;
+	font-size: 90%;
+	background: #9FA41D;
+	padding: 5px;
+	position:fixed;
+	bottom:0;
+	width:100%;
+    padding-right:10px;
+    z-index:3;
+}
+
+/* forms */
+fieldset {
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+    background:#ebedc7; 
+}
+
+    fieldset legend {
+        display:inline;
+        margin-left:10px;
+        font-size:1.3em;
+        font-weight:800;
+         
+    }
+    
+    fieldset ol {
+        padding: 0;
+        list-style: none;
+    }
+
+        fieldset ol li {
+            padding-bottom: 5px;
+        }
+
+    fieldset label {
+        display: block;
+        font-size: 1em;
+        font-weight: 600;
+    }
+
+    fieldset label.checkbox {
+        display: inline;
+    }
+
+    fieldset input[type="text"],
+    fieldset input[type="password"] {
+        border: 1px solid #e2e2e2;
+        color: #333;
+        font-size: 1em;
+        margin: 5px 0 6px 0;
+        padding: 5px;
+        width:100%;
+    }
+
+        fieldset input[type="text"]:focus,
+        fieldset input[type="password"]:focus {
+            border: 1px solid #7ac0da;
+        }
+
+    fieldset input[type="submit"] {
+        background-color: #d3dce0;
+        border: 1px solid #787878;
+        cursor: pointer;
+        font-size: 1em;
+        font-weight: 400;
+        padding: 7px;
+    }
+
+.validation-summary-errors ul li
+{
+     color:Red;
+}

@@ -1,0 +1,59 @@
+﻿	.menuopt
+	{	
+	    float:left;
+	    width:150px;
+        margin-left:20px;
+        margin-top:50px;
+
+        padding: 0px;
+	}
+	
+	.menuopt li
+	{
+        float:left;
+        display:block;
+        white-space:nowrap;
+        position:relative;
+        z-index:1;
+        width:150px;
+        height:20px;
+        padding:0px 0px 0px 0px;
+        padding-left:20px;
+   	}
+	
+    .menuopt li a
+    {
+        float:left;
+        text-decoration:none;
+        color:Black;
+        height:20px;
+        display:block;
+        width:100%;
+        padding-top:2px;
+        padding-left:2px;
+        font-size:12px;
+    }
+    
+    .menuopt li a:hover
+    {
+		background-color:#c2924e;
+		color:#fff;
+		-moz-border-radius: 5px;
+        border-radius: 5px;
+
+    }
+    .menuopt span
+    {
+        float:left;
+        height:20px;
+        width:150px;
+        background:url('../Images/cog.png') no-repeat left;
+        padding-left:20px;
+        padding-top:4px;
+        border-bottom:1px dotted black;
+        font-weight:bold;
+        font-size:14px;
+        margin-bottom:5px;
+    }
+    
+    

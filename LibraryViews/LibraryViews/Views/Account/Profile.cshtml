@@ -1,0 +1,56 @@
+﻿@model login.Models.CustomProfileViewModel
+
+@{
+    ViewBag.Title = "Editar Profile";
+}
+
+<div class="formulari">
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary()
+
+    <fieldset style="width:99%;">
+        <legend>Dades personals</legend>
+        <div class="fila"> 
+            <div class="columna" style="width:300px;">
+                    <div class="cella" style="width:300px;">
+                            @Html.Label("Nom")                
+                            @Html.TextBoxFor(m => m.Nom)      
+                    </div>
+                    <div class="cella" style="width:300px;"> 
+                            @Html.Label("Primer Cognom")                
+                            @Html.TextBoxFor(m => m.PCognom)    
+                    </div>
+                    <div class="cella" style="width:300px;">
+                            @Html.Label("Segon Cognom")             
+                            @Html.TextBoxFor(m => m.SCognom)    
+                    </div>            
+            </div>
+        </div>
+
+        <div class="fila">
+            <div class="columna">
+                <div class="buto">
+                    <input type="submit" value="Modificar" />    
+                </div>
+            </div>
+        </div>
+
+    </fieldset>
+}
+</div> 
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+@section Opcions
+{
+    <ul class="menuopt">
+        <span>Opcions</span>
+        <li><a href="/login/Account/Profile">Modificar dades personals</a></li>
+        <li><a href="/login/Account/ChangePassword">Canviar contrasenya</a></li>
+    </ul>
+}
+
+
+

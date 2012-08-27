@@ -1,0 +1,10 @@
+﻿@if (Request.IsAuthenticated) {
+    <p>
+        <a href="/login/Account/LogOff" class="logoff"><span>Desconectar</span> </a>
+        <a href="/login/Account/Profile" class="profile"><span>Dades personals</span> </a>
+    </p>
+    <p>
+        Usuari: @Html.Label(User.Identity.Name)    
+    </p>
+ 
+} 
